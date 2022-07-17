@@ -1,0 +1,96 @@
+.title{
+    color: #223867;
+    margin-top: 2.1875em;
+    text-align: center;
+  }
+  .title_title{
+     font-weight: 900;
+     font-size: 2.5em;
+  }
+  .title_subtitle{
+    font-weight: 700;
+    font-size: 2.25em;
+    margin-top: 0.625em;
+  }
+  .wrapper{
+    max-width: 1246px;
+    width: 100%;
+    margin:  0 auto;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(217, 246, 251, 0.5833) 25%, #CAF2FA 100%);
+    // height: auto;
+  }
+
+
+.text{
+  p{
+    margin: 0px 36px 31px 36px ;
+    // padding: 15px 9px 21px 16px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid #068CA6;
+    box-shadow: 0px 4px 4px rgba(6, 140, 166, 0.31);
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 1.3125em;
+    line-height: 27px;
+    color: #223867;
+  }
+}
+
+.title_art{
+  color: #028CA6;
+font-weight: 700;
+font-size: 1.875em;
+line-height: 35px;
+text-align: center;
+}
+
+.art{
+  display: revert;
+  text-align: center;
+}
+.cont{
+  width: 578px;
+  
+}
+
+.cont_flex{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.text_1{
+  padding: 11px 24px 13px 20px;
+}
+
+.text_2{
+  padding: 11px 5px 18px 16px;
+}
+.text_3{
+  padding: 12px 9px 22px 21px;
+}
+.text_4{
+  padding: 18px 38px 26px 21px;
+}
+.text_5{
+  padding: 18px 38px 26px 21px;
+}
+.text_6{
+  padding: 18px 23px 4px 18px;
+}
+.Messang{
+  font-weight: 700;
+  font-size: 1.125em;
+  line-height: 21px;
+  color: #2A477D;
+  margin-left: 4em;
+  margin-top: 85px;
+  
+}
+.Messang{
+  a{
+    font-size: 0.7em;
+    color: #068CA6;
+
+  }
+}

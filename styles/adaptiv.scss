@@ -1,0 +1,42 @@
+@media screen and (max-width:900px) {
+    
+    .center_art {
+        overflow: hidden;
+    }
+    .plus_2{
+        left: 20%;
+    }
+    .plus_3 {
+        left: 13%;
+    }
+    .plus_7 { 
+        left: 73%;
+    }
+    .plus_6{
+        left: 66%;
+    }
+    .plus_8 {
+        top: 58%;
+        left: 68%;
+    }
+    .plus_4 {
+            top: 58%;
+            left: 22%;
+    }
+    .plus_6::before {
+        width: auto;
+       
+    }
+    .plus_7::before {
+        width: auto;
+        
+    }
+    .plus_8::before {
+        width: auto;
+       
+    }
+  .plus_8::before {
+    margin-left: 124px;
+     }
+
+}
